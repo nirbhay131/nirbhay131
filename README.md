@@ -103,10 +103,4 @@ Tech: Java • DSA
 
 🔗 View Repository
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nirbhay131&show_icons=true&theme=github_dark&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay131&layout=compact&theme=github_dark&hide_border=true" height="170"/> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=nirbhay131&theme=github-dark-blue&hide_border=true"/> </p>
-🤝 Connect With Me
-<p align="center"> <a href="https://github.com/nirbhay131"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/nirbhay-pandey-a14457309/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:nirbhayp.gop@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<p align="center"> <i>Building. Learning. Improving.</i> </p> ```
+
